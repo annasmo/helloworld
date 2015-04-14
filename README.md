@@ -1,5 +1,5 @@
 # helloworld
 demo for eclipse
 
-œ æ Ÿ ¿ ¹ ê
-³ódka
+Å› Ä‡ Åº Å¼ Ä… Ä™
+Å‚Ã³dka
